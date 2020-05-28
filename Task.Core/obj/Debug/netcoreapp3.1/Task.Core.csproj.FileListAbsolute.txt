@@ -1,0 +1,9 @@
+D:\Sybery\Task\Task.Core\bin\Debug\netcoreapp3.1\Task.Core.deps.json
+D:\Sybery\Task\Task.Core\bin\Debug\netcoreapp3.1\Task.Core.dll
+D:\Sybery\Task\Task.Core\bin\Debug\netcoreapp3.1\Task.Core.pdb
+D:\Sybery\Task\Task.Core\obj\Debug\netcoreapp3.1\Task.Core.csprojAssemblyReference.cache
+D:\Sybery\Task\Task.Core\obj\Debug\netcoreapp3.1\Task.Core.csproj.CoreCompileInputs.cache
+D:\Sybery\Task\Task.Core\obj\Debug\netcoreapp3.1\Task.Core.AssemblyInfoInputs.cache
+D:\Sybery\Task\Task.Core\obj\Debug\netcoreapp3.1\Task.Core.AssemblyInfo.cs
+D:\Sybery\Task\Task.Core\obj\Debug\netcoreapp3.1\Task.Core.dll
+D:\Sybery\Task\Task.Core\obj\Debug\netcoreapp3.1\Task.Core.pdb
