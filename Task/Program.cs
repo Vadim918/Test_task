@@ -8,9 +8,7 @@ namespace Task
         private static void Main()
         {
             var generation = new Generation();
-            generation.Write();
-
-            Console.WriteLine("End");
+            generation.Write();           
 
             Console.ReadKey();
         }
