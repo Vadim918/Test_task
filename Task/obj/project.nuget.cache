@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kYEOrVgma4Ht4bTij1vaiYpc+gDMaEEPJblxz9xwnU9VVEKOeQWeGRZLOjjZT3UiGadHTMk6nwcmSmZeZsCqnA==",
+  "dgSpecHash": "w+hxMf8ncni5bTJOAbtChIEahrCD/6Q+oiV4LHpW2f22R8X3CNRz0kgs4nhJNu5VssDjA7VgD9y84TlQsWV9zQ==",
   "success": true,
-  "projectFilePath": "D:\\Sybery\\Test_task\\Task\\Task.csproj",
+  "projectFilePath": "C:\\Users\\user\\Downloads\\Test_task\\Task\\Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

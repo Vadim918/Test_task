@@ -10,6 +10,8 @@ namespace Task
             var generation = new Generation();
             generation.Write();
 
+            Console.WriteLine("End");
+
             Console.ReadKey();
         }
     }

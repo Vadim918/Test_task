@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Text;
 using Task.Infrastructure.Repositories;
 
@@ -30,9 +31,8 @@ namespace Task
             {
                 var sb = new StringBuilder();
                 _ = sb.Append($"| {t} | ");
-                foreach (var variable in _repository.All(t))
+                foreach (var variable in _repository.All(t).Where(variable => t == variable.Date.DayOfWeek))
                 {
-                    if (t != variable.Date.DayOfWeek) continue;
                     sb.Append($" {variable.Employee.Name}  ({Math.Round(variable.Hours, 2)} hours) ");
                     sb.Append("|");
                 }

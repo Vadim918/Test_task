@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sybery\\Test_task\\Task.Core\\Task.Core.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Downloads\\Test_task\\Task.Core\\Task.Core.csproj",
       "projectName": "Task.Core",
-      "projectPath": "D:\\Sybery\\Test_task\\Task.Core\\Task.Core.csproj",
+      "projectPath": "C:\\Users\\user\\Downloads\\Test_task\\Task.Core\\Task.Core.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Sybery\\Test_task\\Task.Core\\obj\\",
+      "outputPath": "C:\\Users\\user\\Downloads\\Test_task\\Task.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
